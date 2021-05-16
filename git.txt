@@ -1,0 +1,8 @@
+Step 0 - touch .gitignore (Optional)
+Step 1 - git init
+Step 2 - git status (Optional)
+Step 3 - Git add. (Add Multiple File And Folder)
+Step 4 - git commit -m 'First commit'
+Step 5 - git log OR git log --oneline OR git log --oneline -3
+Step 6 - git remote add origin Paste Your SSH OR HTTPS git id
+Step 7 - git push -u master
